@@ -1,0 +1,10 @@
+* cl-bootstrap
+
+Common Lisp web development widget library for Twitter's Bootstrap
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/rajasegar/cl-bootstrap.git   |
+| commit  | c6a1150  |
+| systems | cl-bootstrap |
+|---------+-------------------------------------------|
+
